@@ -27,7 +27,7 @@
 
 ```console
 ╭────────────────────────────── SYSTEM PROFILE ──────────────────────────────╮
-│ USER      : Akash Kumar                                                    │
+│ USER      : Akash Tiwari                                                    │
 │ ROLE      : Developer | Cybersecurity Learner | Tech Explorer              │
 │ MINDSET   : Build • Break • Learn • Secure                                 │
 │ CURRENT   : Sharpening skills and building projects                        │
