@@ -1,85 +1,109 @@
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  AKASH // DIGITAL GHOST                                      ║
+  ║  SYSTEM ONLINE • ETHICAL HACKER • DEVELOPER                   ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:111827,70:00ff9c,100:00b8ff&height=220&section=header&text=AKASH%20TIWARI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ETHICAL%20HACKER%20%7C%20AI%20SECURITY%20%7C%20CYBER%20DEFENSE&descSize=15&descAlignY=56" width="100%" alt="Akash Tiwari cyber-themed header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=AKASH%20KUMAR&fontSize=62&fontColor=00FF9C&stroke=00FF9C&strokeWidth=1&animation=fadeIn&color=0:020617,100:071A2F&desc=ETHICAL%20HACKER%20%7C%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=15&descAlignY=75" width="100%" />
 
-<a href="https://github.com/akashkumartiwariofficial-boop">
-  <img src="https://komarev.com/ghpvc/?username=akashkumartiwariofficial-boop&label=INTRUSIONS%20ON%20THIS%20PROFILE&color=00ff9c&style=for-the-badge" alt="Profile views" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=700&color=00FF9C&center=true&vCenter=true&width=850&lines=%24+whoami+%E2%86%92+Akash+Kumar;Building+cool+things.+Learning+every+day.;Cybersecurity+%7C+Automation+%7C+Open+Source;Think+like+an+attacker.+Build+like+a+defender.;Access+granted%3A+curiosity.exe" alt="Typing SVG" />
 </a>
-<a href="https://github.com/akashkumartiwariofficial-boop?tab=repositories">
-  <img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-00b8ff?style=for-the-badge&logo=github&logoColor=white" alt="Learning and building status" />
-</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=720&lines=%3E+Initializing+Cybersecurity+Profile...;%3E+Exploring+AI+%2B+Cybersecurity;%3E+Learning.+Testing.+Securing.;%3E+Think+like+an+attacker.+Defend+like+an+engineer." alt="Animated terminal-style introduction" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=akashkumartiwariofficial-boop&style=for-the-badge&color=00ff9c&label=PROFILE+SCANS" />
+<img src="https://img.shields.io/github/followers/akashkumartiwariofficial-boop?style=for-the-badge&color=00b8ff&labelColor=020617&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/akashkumartiwariofficial-boop?style=for-the-badge&color=ffcc00&labelColor=020617&label=TOTAL+STARS" />
 
 </div>
 
-┌──(akash㉿cyber-lab)-[~]
-└─$ whoami
-Akash Tiwari | Computer Science Student
-└─$ mission
-Learn offensive security ethically. Build smarter defenses.
-└─$ current_focus
-AI Security • Linux • Python • CTFs • Secure Systems
-01 // ABOUT_ME
-I'm a Computer Science student passionate about ethical hacking, cybersecurity, and artificial intelligence. I like understanding how systems behave, finding weaknesses in authorized environments, and turning what I learn into stronger security practices.
-My learning journey includes hands-on labs, CTF challenges, Linux environments, and programming with Python and C++. I'm particularly interested in AI-powered anomaly detection, security automation, vulnerability assessment, and resilient system design.
-- > Learning: AICS
-- > Practice labs: Hack The Box · TryHackMe · CTFs
-- > Core interests: Ethical Hacking · AI Security · Network Security · Linux
-- > Projects: akash-kumar-tiwari.netlify.app
-- > Contact: akashkumartiwariofficial@gmail.com
-- > Open to: Internships · Collaborations · Cybersecurity Projects
-Mindset: Understand the system. Test responsibly. Document findings. Improve the defense.
+---
 
-02 // TECH_STACK
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,linux,git,github,vscode" alt="Programming, Linux, and developer tools" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,docker,kubernetes,aws,azure,grafana" alt="AI, cloud, containers, and monitoring tools" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,flask,django,mongodb,mysql,postgres" alt="Web development and databases" />
-</p>
+## `root@akash:~# cat about_me.txt`
 
-03 // GITHUB_INTELLIGENCE
+```console
+╭────────────────────────────── SYSTEM PROFILE ──────────────────────────────╮
+│ USER      : Akash Kumar                                                    │
+│ ROLE      : Developer | Cybersecurity Learner | Tech Explorer              │
+│ MINDSET   : Build • Break • Learn • Secure                                 │
+│ CURRENT   : Sharpening skills and building projects                        │
+│ PRINCIPLE : Learn ethically. Create responsibly. Share knowledge.          │
+╰────────────────────────────────────────────────────────────────────────────╯
+```
+
+- 🔭 **Currently working on:** practical projects that turn ideas into useful tools.
+- 🌱 **Currently learning:** programming, cybersecurity fundamentals, and better development workflows.
+- 🛡️ **Cybersecurity mindset:** understand vulnerabilities to help systems become safer.
+- 🤝 **Open to:** collaboration, open-source projects, and learning from other developers.
+- ⚡ **Fun fact:** every error is a clue; every project is a new mission.
+
+> `MISSION: Keep learning. Build useful things. Make the digital world safer.`
+
+## `root@akash:~# ls ./tech-stack`
+
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akashkumartiwariofficial-boop&show_icons=true&hide_border=true&bg_color=050505&title_color=00ff9c&icon_color=00b8ff&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkumartiwariofficial-boop&layout=compact&hide_border=true&bg_color=050505&title_color=00ff9c&text_color=c9d1d9" alt="Top programming languages" />
+
+### ⚙️ Languages & Core Tools
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,linux,bash&theme=dark&perline=9" alt="Tech stack icons" />
+
+### 🧰 Explore & Build
+<img src="https://skillicons.dev/icons?i=md,stackoverflow,windows&theme=dark&perline=6" alt="Additional tools" />
+
 </div>
 
+*Edit this section to match the languages and tools you actually use—your profile will look strongest when every listed skill is genuine.*
+
+## `root@akash:~# ./activity.sh`
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=akashkumartiwariofficial-boop&hide_border=true&background=050505&ring=00ff9c&fire=00b8ff&currStreakLabel=00ff9c&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub contribution streak" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=akashkumartiwariofficial-boop&show_icons=true&hide_border=true&bg_color=020617&title_color=00FF9C&icon_color=00B8FF&text_color=CBD5E1&ring_color=00FF9C&include_all_commits=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkumartiwariofficial-boop&layout=compact&hide_border=true&bg_color=020617&title_color=00FF9C&text_color=CBD5E1" alt="Most used languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=akashkumartiwariofficial-boop&hide_border=true&background=020617&ring=00FF9C&fire=FF5D8F&currStreakLabel=00FF9C&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=00B8FF" alt="GitHub contribution streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akashkumartiwariofficial-boop&bg_color=020617&color=CBD5E1&line=00FF9C&point=00B8FF&area=true&hide_border=true" width="98%" alt="Contribution graph" />
+
 </div>
 
+## `root@akash:~# connect --social`
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashkumartiwariofficial-boop&bg_color=050505&color=00ff9c&line=00b8ff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
+
+[![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=00FF9C)](https://github.com/akashkumartiwariofficial-boop)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=00B8FF)](https://www.linkedin.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=FF5D8F)](https://www.instagram.com/)
+
 </div>
 
-04 // TROPHY_CASE
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akashkumartiwariofficial-boop&theme=matrix&no-frame=true&no-bg=true&margin-w=8" alt="GitHub profile trophies" />
-</div>
+> Replace the LinkedIn and Instagram links with your real profile URLs. Add an email badge only if you want your email public.
 
-05 // CONNECT_TO_OPERATOR
-<div align="center">
-  <a href="https://twitter.com/akash_with27988">
-    <img src="https://img.shields.io/badge/X-Connect-050505?style=for-the-badge&logo=x&logoColor=00ff9c" alt="Connect on X" />
-  </a>
-  <a href="https://www.linkedin.com/in/akash-tiwari-a490283b4/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-050505?style=for-the-badge&logo=linkedin&logoColor=00b8ff" alt="Connect on LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/akash_kumar_tiwari_09/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-050505?style=for-the-badge&logo=instagram&logoColor=ff4ecd" alt="Follow on Instagram" />
-  </a>
-  <a href="mailto:akashkumartiwariofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Open_Channel-050505?style=for-the-badge&logo=gmail&logoColor=00ff9c" alt="Email Akash" />
-  </a>
-</div>
+## `root@akash:~# cat rules_of_engagement.md`
+
+```yaml
+curiosity:       unlimited
+learning:        continuous
+ethics:          non-negotiable
+security_testing: authorized_only
+mindset:         stay_humble_and_ship
+```
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b8ff,50:00ff9c,100:050505&height=100&section=footer" width="100%" alt="Cyber green and blue footer" />
+### `// END OF TRANSMISSION`
 
-[ SYSTEM NOTE ]
-No unauthorized access. No shortcuts. Just skills, curiosity, and responsible security.
-STAY CURIOUS // HACK ETHICALLY // DEFEND INTELLIGENTLY
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,100:00FF9C&height=110&section=footer" width="100%" />
+
+**⚡ If you find something useful here, consider leaving a star.**
+
+<sub>Built with curiosity, caffeine, and a terminal. | Stay curious. Stay ethical.</sub>
+
 </div>
