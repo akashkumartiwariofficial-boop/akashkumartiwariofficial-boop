@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 💙 AKASH TIWARI
+# AKASH TIWARI
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0077FF&height=200&section=header&text=AKASH%20TIWARI&fontSize=48&fontColor=00BFFF&animation=fadeIn" width="100%" />
 
