@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <!-- PREMIUM CYBERSECURITY BANNER -->
