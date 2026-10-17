@@ -212,3 +212,10 @@ If you are interested in **AI, cybersecurity, ethical hacking, or open-source de
 <img width="664" height="350" alt="image" src="https://github.com/user-attachments/assets/2a1ddb49-8253-4317-928c-40ee688d0b79" />
 
 
+
+
+
+<img width="525" height="350" alt="image" src="https://github.com/user-attachments/assets/b7e5f815-7efa-4dc8-99bf-41d1a77f58a6" />
+
+
+
